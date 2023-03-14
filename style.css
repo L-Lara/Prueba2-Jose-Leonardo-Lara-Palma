@@ -1,0 +1,45 @@
+:root{
+	--color-hover-menu:#FE8F01;
+}
+
+body{
+	font-size: 14px;
+	font-family: 'Mulish', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.titulo-carousel{
+	font-size: 5em;
+}
+
+.bolded{
+	font-weight: bold;
+}
+
+header{
+	background-color: #3d3d3d;
+	padding: 10px 0;
+}
+
+.active{
+	background-color: #FE8F01;
+}
+
+.about-us{
+	background-color: ##F5F5F5;
+}
+
+.aboutus-box{
+	background-color: #494949;
+	padding: 10px;
+	margin: 20px;
+	width: 300px;
+	color: #fff;
+}
+
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
